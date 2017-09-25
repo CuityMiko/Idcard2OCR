@@ -1,0 +1,17 @@
+{
+  "youtu": {
+    "qq": "584173864",
+    "appID": "10100409",
+    "secretID": "AKIDXzIf7UMiAXy8GFHUHxTt9FPSK5DgxLEx",
+    "secretKey": "75rSxHTVVKyT5bzCRVPBrW2MVVlHdy87"
+  },
+  "baidu": {
+    "AK": "",
+    "SK": ""
+  },
+  "ali": {
+    "AppKey": "8319936",
+    "AppSecret": "YwqUxfu8HZ",
+    "AppCode": "123456"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "idcardocr",
+  "version": "1.0.1",
+  "description": "idcard node ocr",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "node",
+    "idcard",
+    "card",
+    "ocr"
+  ],
+  "author": "tonyleen",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
